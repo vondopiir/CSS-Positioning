@@ -1,0 +1,138 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.parent-box{
+    width: 80%;
+    height:600px;
+    margin-left: 10%;
+    position: relative;
+    margin-top: 1%;
+}
+
+.child-box-1{
+    width: 15%;
+    height: 150px;
+    background-color: rgb(78, 151, 219);
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.child-box-2{
+    width: 15%;
+    height: 150px;
+    background-color: rgb(40, 105, 202);
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+.child-box-3{
+    width: 15%;
+    height: 150px;
+    background-color: rgb(60, 92, 151);
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+
+.child-box-4{
+    width: 15%;
+    height: 150px;
+    background-color: rgb(78, 151, 219);
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+
+.child-box-5{
+    width: 15%;
+    height: 150px;
+    background-color: rgb(87, 78, 219);
+    position: absolute;
+    top: 0;
+    left: 17%;
+}
+
+.child-box-6{
+    width: 15%;
+    height: 150px;
+    background-color: rgb(54, 42, 219);
+    position: absolute;
+    top: 0;
+    left: 34%;
+}
+
+.child-box-7{
+    width: 15%;
+    height: 150px;
+    background-color: rgb(151, 78, 219);
+    position: absolute;
+    top: 0;
+    left: 51%;
+}
+
+.child-box-8{
+    width: 15%;
+    height: 150px;
+    background-color: rgb(36, 141, 211);
+    position: absolute;
+    top: 0;
+    left: 68%;
+}
+
+.child-box-9{
+    width: 30%;
+    height: 200px;
+    background-color: rgb(8, 78, 63);
+    position: absolute;
+    top: 34%;
+    left: 15%;
+}
+
+.child-box-10{
+    width: 30%;
+    height: 200px;
+    background-color: rgb(18, 109, 82);
+    position: absolute;
+    top: 34%;
+    left: 50%;
+}
+
+.child-box-11{
+    width: 15%;
+    height: 150px;
+    background-color: rgb(211, 36, 89);
+    position: absolute;
+    bottom: 0;
+    left: 17%;
+}
+
+.child-box-12{
+    width: 15%;
+    height: 150px;
+    background-color: rgb(211, 36, 173);
+    position: absolute;
+    bottom: 0;
+    left: 34%;
+}
+
+.child-box-13{
+    width: 15%;
+    height: 150px;
+    background-color: rgb(216, 56, 96);
+    position: absolute;
+    bottom: 0;
+    left: 51%;
+}
+
+.child-box-14{
+    width: 15%;
+    height: 150px;
+    background-color: rgb(212, 55, 55);
+    position: absolute;
+    bottom: 0;
+    left: 68%;
+}
